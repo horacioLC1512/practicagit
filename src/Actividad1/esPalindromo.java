@@ -2,6 +2,8 @@ package Actividad1;
 
 /**
  * Primer cambio. Horacio Lopez Castro
+ *
+ * Segundo cambio
  */
 
 public class esPalindromo {
